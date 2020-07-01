@@ -5,6 +5,12 @@
     h1{
         font-size: 50px;
     }
+    h1:hover{
+        color: rebeccapurple;
+    }
+    h2:hover{
+        color: salmon;
+    }
     p{
         color: dimgray;
     }
@@ -44,6 +50,10 @@
         font-weight: 700;
         
     }
+    .link-button:hover{
+        color: red;
+    }
+    
     .biography-part{
         background-image: url("images/biography-bg.png");
         background-repeat: no-repeat;
